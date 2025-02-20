@@ -11,9 +11,9 @@
     <a href="https://github.com/GregTechCEu/GregTech/releases"><img src="https://img.shields.io/github/downloads/GregTechCEu/GregTech/total?sort=semver&logo=github&label=&style=for-the-badge&color=2d2d2d&labelColor=545454&logoColor=FFFFFF" alt="GitHub"></a>
 </h1>
 
-## Welcome to GregTech CE: Unofficial
+## Welcome to GregTech CE: Unofficial for GE
 ### What is this?
-GregTech CE Unofficial, or **GTCEu**, is a Minecraft mod. The repository contains all the code and assets required to build and run that mod.
+GregTech CE Unofficial - GE Fork, or **GTCEu GE**, is a Minecraft mod. The repository contains all the code and assets required to build and run that mod.
 
 ### GregTech?
 Yes, you have probably heard this name before as it is quite known in the Minecraft modding community. GTCEu is an **indirect descendant** and **total rewrite** of _**GregTech**_.  It is **neither created nor maintained by GregoriusT** but was created with his knowledge and permission.
@@ -34,6 +34,10 @@ All of which are powered by GTCEu's own power systems, featuring generators from
 * It is a reminder that the implementation and work are solely provided by the community.
 
 Of course, this does not mean that everyone can add whatever content they want.  But it does mean that the primary maintainers want to listen to the community and take suggestions and ideas to heart when planning or working on any projects.
+
+### GE?
+
+This is a fork of GTCEu designed for GE.
 
 ### Project Goal
 To bring preferred GregTech concepts and ideas from GT (Minecraft 1.7.10 versions and earlier) to Minecraft 1.12, targetting a feature-rich, UX-friendly and comprehensive play-through while streamlining and eliminating bloat and make-work details.
